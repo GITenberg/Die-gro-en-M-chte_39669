@@ -1,0 +1,39 @@
+_repo: Die-gro-en-M-chte_39669
+_version: 0.1.0
+alternative_title: Die grossen Mächte
+covers:
+- cover_type: archival
+  image_path: 39669-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ranke, Leopold von
+    aliases:
+    - Ranke, Leopoldo
+    - Von Ranke, Leopold
+    birthdate: 1795
+    deathdate: 1886
+    gutenberg_agent_id: '33393'
+    url: http://www.gutenberg.org/2009/agents/33393
+    wikipedia: http://en.wikipedia.org/wiki/Leopold_von_Ranke
+  editor:
+    agent_name: Meinecke, Friedrich
+    birthdate: 1862
+    deathdate: 1954
+    gutenberg_agent_id: '40146'
+    url: http://www.gutenberg.org/2009/agents/40146
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39669'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Politics and government -- 18th century'
+- !lcsh 'Balance of power'
+- !lcc 'D'
+title: Die großen Mächte
+url: http://www.gutenberg.org/ebooks/39669
